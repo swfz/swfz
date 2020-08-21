@@ -5,4 +5,3 @@ Hi there, I'm swfz.
 ![GitHub followers](https://img.shields.io/github/followers/swfz?label=Follow&style=social)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=swfz&theme=cobalt&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swfz)](https://github.com/anuraghazra/github-readme-stats)
