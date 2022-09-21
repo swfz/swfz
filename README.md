@@ -6,3 +6,6 @@ Hi there, I'm swfz.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=swfz&theme=cobalt&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=swfz&theme=dark)](https://git.io/streak-stats)
+
+
+![](https://komarev.com/ghpvc/?username=swfz)
