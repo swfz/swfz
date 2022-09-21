@@ -5,3 +5,4 @@ Hi there, I'm swfz.
 ![GitHub followers](https://img.shields.io/github/followers/swfz?label=Follow&style=social)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=swfz&theme=cobalt&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=swfz)](https://git.io/streak-stats)
